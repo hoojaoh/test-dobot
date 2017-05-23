@@ -1,0 +1,14 @@
+{
+    "name": "hoojaoh/community-bot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoo Ja Oh",
+            "email": "hj10sn@gmail.com"
+        }
+     ],
+     "type": "project",
+     "require": ">=5.6",
+     "lp-digital/github-event-parser": "0.7"
+     }
+}     
