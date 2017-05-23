@@ -1,0 +1,6 @@
+#hoojaoh:~/workspace/community-bot (master) $cat events.log
+
+PullRequstEvent
+PullRequestEvent
+IsssueEvent
+PullRequestEvent
